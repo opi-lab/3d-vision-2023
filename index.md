@@ -5,7 +5,7 @@ title: 3D Vision
 
 # 3D Vision
 
-### Second semester 2017
+### Second semester 2020
 
 Andrés Marrugo, PhD       
 *Universidad Tecnológica de Bolívar*
@@ -61,7 +61,7 @@ We will be discussing the main aspects and motivation for 3D computer vision. Al
 
 ### Assignment 1
 
-A summary of Linear Algebra and Probability exercises. **Due date:** 2017-08-25.
+A summary of Linear Algebra and Probability exercises. **Due date:** TBD.
 
 [Assignment 1]({{site.url}}pdfs/a1.pdf)
 
@@ -81,7 +81,7 @@ We will be studying the main aspects about image formation, the pinhole camera m
 
 ### Assignment 2
 
-Matlab basics and image formation. **Due date:** 2017-09-03.
+Matlab basics and image formation. **Due date:** TBD.
 
 - [Assignment 2]({{site.url}}pdfs/a2.pdf)
 - [**Upload link**](https://www.dropbox.com/request/7eDSQ1WB45O8NQrBEjb0)
@@ -113,13 +113,13 @@ In this lecture we introduce 3D coordinate transforms.
 
 ### Quiz 
 
-**2017-09-08** Quiz on Coordinate transforms.
+**TBD** Quiz on Coordinate transforms.
 
 
 
 ### <mark>Assignment 3</mark>
 
-Coordinate transforms. **Due date:** 2017-09-17.
+Coordinate transforms. **Due date:** TBD.
 
 - [Assignment 3]({{site.url}}pdfs/a3.pdf)
 - [**Upload link**](https://www.dropbox.com/request/ryJlL1cVCqhZflUinIbD)
@@ -158,7 +158,7 @@ Manipulating Binary or logical images.
 
 ### <mark>Assignment 4</mark>
 
-Coordinate transforms. **Due date:** 2017-09-29.
+Coordinate transforms. **Due date:** TBD.
 
 - [Assignment 4]({{site.url}}pdfs/a4.pdf)
 - [**Upload link**](https://www.dropbox.com/request/cyTpUDCgpI2qsiJORXOU)
@@ -204,7 +204,7 @@ Alignment using Newton's method.
 
 ### Assignment 5
 
-Correspondence problem. **Due date:** 2017-10-15.
+Correspondence problem. **Due date:** TBD.
 
 - [robot1.jpg](https://www.dropbox.com/s/avelpa3sq97upz2/robot1.jpg?dl=0)
 - [robot2.jpg](https://www.dropbox.com/s/btukc4w78e2qusi/robot2.jpg?dl=0)
@@ -263,7 +263,7 @@ In this course you are required to complete a short project, similar to the assi
 
 ### Assignment 6
 
-Correspondence problem. **Due date:** 2017-11-05.
+Correspondence problem. **Due date:** TBD.
 
 - [robot1.jpg](https://www.dropbox.com/s/avelpa3sq97upz2/robot1.jpg?dl=0)
 - [robot2.jpg](https://www.dropbox.com/s/btukc4w78e2qusi/robot2.jpg?dl=0)
