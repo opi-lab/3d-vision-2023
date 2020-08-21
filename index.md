@@ -61,9 +61,10 @@ We will be discussing the main aspects and motivation for 3D computer vision. Al
 
 ### Assignment 1
 
-A summary of Linear Algebra and Probability exercises. **Due date:** TBD.
+A summary of Linear Algebra and Probability exercises. **Due date:** 2020-08-21.
 
 [Assignment 1]({{site.url}}pdfs/a1.pdf)
+- **Send by email**.
 
 ### Lecture 2: Sensors and Image Formation
 
@@ -81,10 +82,12 @@ We will be studying the main aspects about image formation, the pinhole camera m
 
 ### Assignment 2
 
-Matlab basics and image formation. **Due date:** TBD.
+Matlab basics and image formation. **Due date:** 2020-08-28.
 
 - [Assignment 2]({{site.url}}pdfs/a2.pdf)
-- [**Upload link**](https://www.dropbox.com/request/7eDSQ1WB45O8NQrBEjb0)
+- **Send by email**.
+<!-- - [**Upload link**](https://www.dropbox.com/request/7eDSQ1WB45O8NQrBEjb0) -->
+
 
 
 ### Lecture 3: 2D-2D Coordinate transforms
