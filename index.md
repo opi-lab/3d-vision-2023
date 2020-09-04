@@ -164,21 +164,11 @@ Manipulating Binary or logical images.
 Coordinate transforms. **Due date:** TBD.
 
 - [Assignment 4]({{site.url}}pdfs/a4.pdf)
-- [**Upload link**](https://www.dropbox.com/request/cyTpUDCgpI2qsiJORXOU)
+- **Send by email**.
+<!--  - [**Upload link**](https://www.dropbox.com/request/cyTpUDCgpI2qsiJORXOU) -->
 
-### Guest Lecture: Visual SLAM
 
-Dr Luis Mejías from Queensland University of Technology joins us to discuss about Visual SLAM (Simultaneous Localization and Mapping).
-
-- [Lecture slides](https://www.dropbox.com/s/52048055bovvjvb/vSLAM.pdf?dl=0)
-- [Extended Kalman Filter tutorial](https://www.dropbox.com/s/ykech1nnszfgvju/tutorialEKF.pdf?dl=0)
-- [SLAM course](https://www.dropbox.com/s/fdmdhmwjnvk77ra/SLAM%20course.pdf?dl=0)
-- [Civera et al., Monocular SLAM](https://www.dropbox.com/s/w06zfr8567lkef0/civera_etal_tro2008.pdf?dl=0)
-- [Durrant-White et al., SLAM Essentials](https://www.dropbox.com/s/2gnw8joinbalf1g/10.1.1.128.4195.pdf?dl=0)
-- [Mono SLAM tracking video](https://www.dropbox.com/s/ln4q4e7fsxkwixh/MonoSLAM_%20Real-Time%20Single%20Camera%20SLAM.mp4?dl=0)
-- [Simulators](https://www.dropbox.com/sh/afghfml8edxbrst/AADDava9rijJW9lAeXHOPWXxa?dl=0)
-
-### Lecture 8: 2D Image transforms
+### Lecture 7: 2D Image transforms
 
 2D Image transformations and least squares fitting.
 
@@ -188,13 +178,13 @@ Dr Luis Mejías from Queensland University of Technology joins us to discuss abo
 - [book_A.jpg](https://www.dropbox.com/s/hycrdoodgt2ezz6/book_A.jpg?dl=0)
 - [book_B.jpg](https://www.dropbox.com/s/sibi0reulitquq3/book_B.jpg?dl=0)
 
-### Lecture 9: Alignment using Nonlinear Least Squares
+### Lecture 8: Alignment using Nonlinear Least Squares
 
 Alignment using Newton's method.
 
 - [Lecture 9 slides](https://www.dropbox.com/s/kpi7abaan757iny/lec09-AlignmentNonlinear.pdf?dl=0)
 
-### Lecture 10: Pose estimation
+### Lecture 9: Pose estimation
 
 - [Lecture 10 slides](https://www.dropbox.com/s/i7gteeq06hnqp1n/lec10-PoseEstimation.pdf?dl=0)
 - [img1_rect.tif](https://www.dropbox.com/s/iz69p1a9kqgtjbs/img1_rect.tif?dl=0)
