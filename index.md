@@ -204,7 +204,9 @@ Correspondence problem. **Due date:** TBD.
 - [robot3.jpg](https://www.dropbox.com/s/cdhgzmguodc35mb/robot3.jpg?dl=0)
 
 - [Assignment 5]({{site.url}}pdfs/a5.pdf)
-- [**Upload link**](https://www.dropbox.com/request/RurYZ2moQKlDQ7TXzzvg)
+- **Send by email**.
+
+<!-- - [**Upload link**](https://www.dropbox.com/request/RurYZ2moQKlDQ7TXzzvg) -->
 
 ### Lecture 11: Corner detection
 
