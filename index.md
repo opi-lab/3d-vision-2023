@@ -294,11 +294,21 @@ In this lecture we will discuss structure from motion.
 
 - [Lecture 16 slides](https://www.dropbox.com/s/viyfbdg4gfx15g9/lec16-StructureFromMotion.pdf?dl=0)
 
-### Lecture 17: Structured Light
+### Lecture 17: Camera calibration
+
+In this lecture we will discuss how to calculate the camera intrinsic parameters.
+
+- [Lecture 17 slides](https://www.dropbox.com/s/gcp96w318xuwy2c/lec17-CameraCalibration.pdf?dl=0)
+
+#### Reading
+
+- [Zhang, 2000](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=888718&casa_token=CD_vbhDITiAAAAAA:RUiTT2aOdHVVQjhy1ln6CtvOnCEIWMy5QeAVU_OQEubnQEZmjkiz6xCWdg9PatOK4MFfsFgUlg&tag=1)
+
+### Lecture 18: Structured Light
 
 In this lecture we will discuss structured light systems.
 
-- [Lecture 17 slides](https://www.dropbox.com/s/8vjlaylblslywlp/lec17-StructuredLight.pdf?dl=0)
+- [Lecture 18 slides](https://www.dropbox.com/s/8vjlaylblslywlp/lec18-StructuredLight.pdf?dl=0)
 
 ### Final exam
 
