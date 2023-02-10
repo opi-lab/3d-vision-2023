@@ -5,7 +5,7 @@ title: 3D Vision
 
 # 3D Vision
 
-### Second semester 2023
+### First semester 2023
 
 Andrés Marrugo, PhD       
 *Universidad Tecnológica de Bolívar*
