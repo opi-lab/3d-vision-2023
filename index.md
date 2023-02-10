@@ -5,7 +5,7 @@ title: 3D Vision
 
 # 3D Vision
 
-### Second semester 2020
+### Second semester 2023
 
 Andrés Marrugo, PhD       
 *Universidad Tecnológica de Bolívar*
@@ -61,10 +61,10 @@ We will be discussing the main aspects and motivation for 3D computer vision. Al
 
 ### Assignment 1
 
-A summary of Linear Algebra and Probability exercises. **Due date:** 2020-08-21.
+A summary of Linear Algebra and Probability exercises. **Due date:** 2023-02-17.
 
 [Assignment 1]({{site.url}}pdfs/a1.pdf)
-- **Send by email**.
+- **Send via Teams**.
 
 ### Lecture 2: Sensors and Image Formation
 
@@ -78,6 +78,7 @@ We will be studying the main aspects about image formation, the pinhole camera m
 
 - [Forsyth and Ponce 1.1,1.2 ](https://www.dropbox.com/s/mfol1581hpd6fwy/Forsyth-Ponce-chapter-01.pdf?dl=0)
 - [Camera geometry and parameters - 11.1, 11.2](https://www.dropbox.com/s/2olqadczmsoevo7/01-lectura-geometria-camaras.pdf?dl=0)
+
 
 
 ### Assignment 2
